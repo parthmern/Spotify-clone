@@ -15,3 +15,10 @@
 ➜ It is not working with my project like the NEXT api fetching function is not hitting , i also tried to solve this but i was failed. <br/>
 ➜ So i decided to create my own "Infinite scrolling" fetaure. <br/>
 ➜ Reference video link - [techincal thapa](https://youtu.be/F51xUcV3uH0?si=lm2g47tZiW2X3Rg7) <br/>
+
+
+https://github.com/parthmern/Spotify-clone/assets/125397720/59f1ff96-8350-4c7a-82d7-bc861f313304
+
+## 💛 Check reviews on my Linkedin Post - [LINK-click here ](https://www.linkedin.com/posts/parth-patel-a148b6257_spotifyclone-reactjs-musicloversunite-activity-7114636432056459264-Etw7?utm_source=share&utm_medium=member_android)
+
+
