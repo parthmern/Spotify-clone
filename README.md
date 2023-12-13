@@ -19,6 +19,6 @@
 
 https://github.com/parthmern/Spotify-clone/assets/125397720/59f1ff96-8350-4c7a-82d7-bc861f313304
 
-## 💛 Check reviews on my Linkedin Post - [LINK-click here ](https://www.linkedin.com/posts/parth-patel-a148b6257_spotifyclone-reactjs-musicloversunite-activity-7114636432056459264-Etw7?utm_source=share&utm_medium=member_android)
+## 💛 Check reviews on my Linkedin Post - [LINK-click here ](https://www.linkedin.com/posts/parthpatelreal_spotifyclone-reactjs-musicloversunite-activity-7114636432056459264-8xv6?utm_source=share&utm_medium=member_desktop)
 
 
